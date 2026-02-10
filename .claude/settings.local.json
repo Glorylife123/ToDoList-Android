@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npx cap add:*)",
+      "Bash(npx cap sync:*)",
+      "Bash(npx cap open android:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)"
+    ]
+  }
+}
